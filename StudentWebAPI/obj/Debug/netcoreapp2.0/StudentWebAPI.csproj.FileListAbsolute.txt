@@ -1,0 +1,11 @@
+C:\Users\Loui Jojan\source\repos\StudentWebAPI\StudentWebAPI\bin\Debug\netcoreapp2.0\StudentWebAPI.deps.json
+C:\Users\Loui Jojan\source\repos\StudentWebAPI\StudentWebAPI\bin\Debug\netcoreapp2.0\StudentWebAPI.runtimeconfig.json
+C:\Users\Loui Jojan\source\repos\StudentWebAPI\StudentWebAPI\bin\Debug\netcoreapp2.0\StudentWebAPI.runtimeconfig.dev.json
+C:\Users\Loui Jojan\source\repos\StudentWebAPI\StudentWebAPI\bin\Debug\netcoreapp2.0\StudentWebAPI.dll
+C:\Users\Loui Jojan\source\repos\StudentWebAPI\StudentWebAPI\bin\Debug\netcoreapp2.0\StudentWebAPI.pdb
+C:\Users\Loui Jojan\source\repos\StudentWebAPI\StudentWebAPI\obj\Debug\netcoreapp2.0\StudentWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Loui Jojan\source\repos\StudentWebAPI\StudentWebAPI\obj\Debug\netcoreapp2.0\StudentWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Loui Jojan\source\repos\StudentWebAPI\StudentWebAPI\obj\Debug\netcoreapp2.0\StudentWebAPI.AssemblyInfoInputs.cache
+C:\Users\Loui Jojan\source\repos\StudentWebAPI\StudentWebAPI\obj\Debug\netcoreapp2.0\StudentWebAPI.AssemblyInfo.cs
+C:\Users\Loui Jojan\source\repos\StudentWebAPI\StudentWebAPI\obj\Debug\netcoreapp2.0\StudentWebAPI.dll
+C:\Users\Loui Jojan\source\repos\StudentWebAPI\StudentWebAPI\obj\Debug\netcoreapp2.0\StudentWebAPI.pdb
